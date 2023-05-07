@@ -15,4 +15,4 @@
 **DATA/
 
 # ignore egg-info
-*.egg-info
+**.egg-info/
