@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pyConDec.egg-info/PKG-INFO
+pyConDec.egg-info/SOURCES.txt
+pyConDec.egg-info/dependency_links.txt
+pyConDec.egg-info/not-zip-safe
+pyConDec.egg-info/top_level.txt
+pycondec/__init__.py
+pycondec/conditional_numba.py

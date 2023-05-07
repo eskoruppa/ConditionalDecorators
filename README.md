@@ -1,2 +1,2 @@
-# REPO_TEMPLATE
-Template for repos
+# pyConDev
+Module for conditional decorators
